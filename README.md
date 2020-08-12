@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![AngelicoLeo's github stats](https://github-readme-stats.vercel.app/api?username=AngelicoLeo&hide=contribs,prs)
+![AngelicoLeo's github stats](https://github-readme-stats.vercel.app/api?username=AngelicoLeo&hide=contribs,prs&show_icons=true&theme=radical)
 
 
 <!--
