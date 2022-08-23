@@ -7,7 +7,7 @@
 - 💬 Ask me about anything I'll try to help
 - ⚡ Fun fact: I'm a forestry engineer 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leoangelico_)](https://twitter.com/felipefialho_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leoangelico_)](https://twitter.com/leoangelico_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoangelico/)](https://www.linkedin.com/in/leonardoangelico)
 
 
