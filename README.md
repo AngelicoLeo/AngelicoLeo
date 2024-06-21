@@ -2,8 +2,8 @@
 
 ![AngelicoLeo's github stats](https://github-readme-stats.vercel.app/api?username=AngelicoLeo&hide=contribs,prs&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on a tech company as a Developer
-- 🌱 I’m currently working on .NET 6 and DevOps skills
+- 🔭 I’m currently working on a tech company in Netherlands as a Backend Developer
+- 🌱 I’m currently working on .NET and DevOps skills
 - 💬 Ask me about anything I'll try to help
 - ⚡ Fun fact: I'm a forestry engineer 
 
